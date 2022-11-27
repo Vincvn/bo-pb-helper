@@ -1,0 +1,15 @@
+{
+  "name": "bo-pb-helper",
+  "version": "0.0.1",
+  "description": "NOTHING TO SAY",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pocketbase"
+  ],
+  "author": "Vincent Hoang",
+  "license": "MIT"
+}
